@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RxLocation</string>
+    <string name="API_KEY">AIzaSyDd0Y0kzgRdjUX52VWauJHWvEr-i8T_5v0</string>
+    <string name="permission_location_rationale">Location permission is needed to fetch current location.</string>
+    <string name="ok">OK</string>
+    <string name="permision_available_location">Location Permission has been granted.</string>
+    <string name="permissions_not_granted">Permissions were not granted.</string>
+</resources>
